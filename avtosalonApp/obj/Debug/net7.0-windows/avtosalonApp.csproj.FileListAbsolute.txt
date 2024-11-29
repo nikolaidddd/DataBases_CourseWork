@@ -1,0 +1,86 @@
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\avtosalonApp.exe
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\avtosalonApp.deps.json
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\avtosalonApp.runtimeconfig.json
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\avtosalonApp.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\avtosalonApp.pdb
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.csproj.AssemblyReference.cache
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.Form1.resources
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.csproj.GenerateResource.cache
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.AssemblyInfoInputs.cache
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.AssemblyInfo.cs
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.csproj.CoreCompileInputs.cache
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\refint\avtosalonApp.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.pdb
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.genruntimeconfig.cache
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\ref\avtosalonApp.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.csproj.CopyComplete
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalon.Form1.resources
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalon.AddDeal.resources
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.ClientInterface.resources
+C:\Users\feope\source\avtosalonApp\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.EmplInterface.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.csproj.AssemblyReference.cache
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.ClientInterface.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.EmplInterface.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalon.Form1.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCAddRoom.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalon.AddDeal.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCAllArendators.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.RemoveRoom.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCAddArendator.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCRoom.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCKatalog.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCMyDogovors.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCMyKabinet.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCRemoveArendator.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCRemoveDogovor.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\VPIProject.UCSearchRoom.resources
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.csproj.GenerateResource.cache
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.AssemblyInfoInputs.cache
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.AssemblyInfo.cs
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.csproj.CoreCompileInputs.cache
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.dll
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\refint\avtosalonApp.dll
+C:\Users\feope\OneDrive\Рабочий стол\avtosalonApp.copy\avtosalonApp\obj\Debug\net7.0-windows\avtosalonApp.pdb
